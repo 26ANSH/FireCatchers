@@ -1,6 +1,6 @@
 # FireQuest
 This Repo Consists of Solutions to Tasks for the FireQuest Organised by GDG Chandigarh and IEEE CU
-## Task 1
+## [Task - 01](https://github.com/26ANSH/FireCatchers/tree/main/Task-1)
 
 write a program to get the option from the user and print the result based on the above API.
  
@@ -18,7 +18,7 @@ The program should not terminate until the user presses 0.
  
 The program should be modular. and you can use any programming language and any framework.
 Once you complete, check-in the code in GitHub, and share the repository link for review.
-## Task 2
+## [Task - 02](https://github.com/26ANSH/FireCatchers/)
 
 Use a Firebase service (Firebase Auth) and build a Login and Registration page using it. Participants are free to make any application be its an Android application, Web Page, or anything else.
 
