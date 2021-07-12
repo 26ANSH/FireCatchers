@@ -9,7 +9,9 @@ This Repo Consists of Solutions to Tasks for the FireQuest Organised by GDG Chan
 
 # API used
 > [samples.openweathermap](https://samples.openweathermap.org/data/2.5/forecast/hourly?q=London,us&appid=b6907d289e10d714a6e88b30761fae22)`API url`
-> API Used    : RESTful API
+
+>   API Used    : RESTful API
+
 > HTTP Method : GET
 
 ## Given Task
