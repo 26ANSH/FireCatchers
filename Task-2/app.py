@@ -11,7 +11,7 @@ def hello():
 def success():
     return render_template('success.html')
 
-@app.route('/signin', methods=['GET', 'POST'])
+@app.route('/Signup', methods=['GET', 'POST'])
 def signup():
     if request.method == 'POST':
         email = request.form['email']
