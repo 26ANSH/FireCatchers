@@ -8,10 +8,12 @@ This Repo Consists of Solutions to Tasks for the FireQuest Organised by GDG Chan
     ├── .gitignore
     └── README.md
 
-# REST GET API used
+# API used
 > [samples.openweathermap](https://samples.openweathermap.org/data/2.5/forecast/hourly?q=London,us&appid=b6907d289e10d714a6e88b30761fae22)`API url`
+> API Used    : RESTful API
+> HTTP Method : GET
 
-# Given Task
+## Given Task
 write a program to get the option from the user and print the result based on the above API.
  
 1. Get weather
@@ -28,3 +30,7 @@ The program should not terminate until the user presses 0.
  
 The program should be modular. and you can use any programming language and any framework.
 Once you complete, check-in the code in GitHub, and share the repository link for review.
+
+## Solution
+
+![Screenshot](ss-01.png)
