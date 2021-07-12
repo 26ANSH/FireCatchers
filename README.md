@@ -19,6 +19,11 @@ The program should not terminate until the user presses 0.
 The program should be modular. and you can use any programming language and any framework.
 Once you complete, check-in the code in GitHub, and share the repository link for review.
 
+> Task 2
+Use a Firebase service (Firebase Auth) and build a Login and Registration page using it. Participants are free to make any application be its an Android application, Web Page, or anything else.
+
+The program should be modular. and you can use any programming language and any framework.
 # contributors [Team Members]
-@Maanas74
+[Maanas](https://github.com/maanas74)
+[Yashraj](https://github.com/Yashrajsingh2001)
  
