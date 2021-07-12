@@ -1,17 +1,7 @@
 # FireCatchers
 This Repo Consists of Solutions to Tasks for the FireQuest Organised by GDG Chandigarh and IEEE CU
 
-# Project directory layout
-    .
-    ├── app.py                    # Main code Runner Python Code
-    ├── weather.py                # Python Code for retreiving Data from API
-    ├── .gitignore
-    └── README.md
-
-# REST GET API used
-> [samples.openweathermap](https://samples.openweathermap.org/data/2.5/forecast/hourly?q=London,us&appid=b6907d289e10d714a6e88b30761fae22)`API url`
-
-# Given Task
+> Task 1
 write a program to get the option from the user and print the result based on the above API.
  
 1. Get weather
@@ -28,3 +18,7 @@ The program should not terminate until the user presses 0.
  
 The program should be modular. and you can use any programming language and any framework.
 Once you complete, check-in the code in GitHub, and share the repository link for review.
+
+# contributors [Team Members]
+@Maanas74
+ 
