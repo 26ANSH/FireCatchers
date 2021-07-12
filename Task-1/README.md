@@ -31,4 +31,24 @@ The program should be modular. and you can use any programming language and any 
 Once you complete, check-in the code in GitHub, and share the repository link for review.
 
 ## Solution
+After Downloading The Code files cd to FireCatchers directory
+> Install Requests Modules
+
+```
+$ pip3 install requests
+```
+
+> Use Terminal/Command Prompt 
+
+```
+$ cd task-1
+```
+
+> Run Python Code 
+
+```
+$ python3 app.py
+```
+
+## Screenshots
 ![Screenshot](ss-01.png)
