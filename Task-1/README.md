@@ -5,7 +5,6 @@ This Repo Consists of Solutions to Tasks for the FireQuest Organised by GDG Chan
     .
     ├── app.py                    # Main code Runner Python Code
     ├── weather.py                # Python Code for retreiving Data from API
-    ├── .gitignore
     └── README.md
 
 # API used
@@ -32,5 +31,4 @@ The program should be modular. and you can use any programming language and any 
 Once you complete, check-in the code in GitHub, and share the repository link for review.
 
 ## Solution
-
 ![Screenshot](ss-01.png)
