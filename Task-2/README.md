@@ -2,8 +2,6 @@
 This Repo Consists of Solutions to Tasks for the FireQuest Organised by GDG Chandigarh and IEEE CU
 
 # Project directory layout
-
-> Using Flask Specified Nomenclature
     .
     ├── app.py                # Main App ~ Flask App
     ├── auth.py               # Database Communicator ~ Firebase Authentication  
