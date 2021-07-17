@@ -8,12 +8,12 @@ This Repo Consists of Solutions to Tasks for the FireQuest Organised by GDG Chan
     ├── app.py                # Main App ~ Flask App
     ├── auth.py               # Database Communicator ~ Firebase Authentication  
     ├── template              # Html Pages ~ Jinja Templates
-          ├── index.html
-          ├── login.html
-          ├── signup.html
-          ├── 404.html
-          ├── template.html
-          └── success.html
+    │   ├── index.html
+    │   ├── login.html
+    │   ├── signup.html
+    │   ├── 404.html
+    │   ├── template.html
+    │   └── success.html
     ├── static               # Images, CSS, JS
     ├── requiremnts.txt      # Python Modules required for running the App
     └── README.md
