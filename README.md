@@ -24,9 +24,7 @@ Use a Firebase service (Firebase Auth) and build a Login and Registration page u
 
 The program should be modular. and you can use any programming language and any framework.
 # Team FireCatchers [Team Members]
-[Ansh Vidyabhanu](https://github.com/26ANSH)`Team Lead`
-
-[Maanas Gupta](https://github.com/maanas74)
-
-[Yashraj Singh Boparai](https://github.com/Yashrajsingh2001)
+1. [Ansh Vidyabhanu](https://github.com/26ANSH). `Team Lead`
+2. [Maanas Gupta](https://github.com/maanas74)
+3. [Yashraj Singh Boparai](https://github.com/Yashrajsingh2001)
  
